@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pendaftaran Ekskul</title>
+</head>
+<body>
+    <h1>pendaftaran Ekskul</h1>
+    
+    <form method="Post">
+        <label for="nama">Nama Lengkap:</label><br>
+
+</html>
+
+        <label for="email">email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="kelas">kelas:</label><br>
+        <input type="text" id="kelas" name="kelas" required><br><br>
+
+        <label for="jurusan">jurusan Siswa:</label><br>
+        
+        
+        <input type="checkbox" id="Jurusan1" name="Jurusan" value="Rekayasa Perangkat Lunak">Rekayasa Perangkat Lunak<br>
+        <input type="checkbox" id="Jurusan2" name="Jurusan" value="Desain Komunikasi visual">Desain Komunikasi visual<br>
+        <input type="checkbox" id="Jurusan3" name="Jurusan" value="Teknik Mekatronika">Teknik Mekatronika<br>
+        <input type="checkbox" id="Jurusan4" name="Jurusan" value="Teknik Komputer Jaringan">Teknik Komputer Jaringan<br>
+        <input type="checkbox" id="Jurusan4" name="Jurusan" value="Akuntansi">Akuntansi<br>
+        <input type="checkbox" id="Jurusan4" name="Jurusan" value="Perbankan">Perbankan<br>
+        
+        <br>
+        
+        
+        <label for="ekskul">Pilih Ekskul:</label><br>
+        <input type="checkbox" id="ekskul1" name="ekskul" value="Futsal">Futsal<br>
+        <input type="checkbox" id="ekskul2" name="ekskul" value="Paduan Suara">Paduan Suara<br>
+        <input type="checkbox" id="ekskul3" name="ekskul" value="Band">Band<br>
+        <input type="checkbox" id="ekskul4" name="ekskul" value="Tari">Tari<br>
+
+        <label for="foto">Upload Foto:</label><br>
+        <input type="file" name="foto" accept="image/*" required><br><br>
+
+        <label for="Deskripsi minat dan bakat">Deskripsi minat dan bakat:</label><br>
+        <textarea id="deskripsi" name="deskripsi" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Daftar">
+    </form>
+        
+
+</html>
