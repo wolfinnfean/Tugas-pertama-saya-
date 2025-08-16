@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Biodata Lengkap</title>
+</head>
+<body>
+  <h1>Biodata Siswa</h1>
+  <hr>
+
+  <h2>Nama Lengkap</h2>
+  <p><strong>Febrian Kariadi</strong></p>
+
+  <h2>Kelas</h2>
+  <p>XI RPL 2</p>
+
+  <h2>Hobi</h2>
+  <ul>
+    <li>Bermain Musik</li>
+    <li>Membuat Lagu</li>
+    <li>Fotografi</li>
+  </ul>
+
+  <h2>Foto Diri</h2>
+  <img src="https://uploads.onecompiler.io/43ttw7sra/43tturk2z/1000034325.jpg" alt="Foto Siswa" width="200
+  ">
+
+  <h2>Kata-Kata hari ini</h2>
+  <blockquote>
+    "Dan pada akhirnya manusia selalu mencoba untuk melawan Tuhan."
+  </blockquote>
+  <h2>Hasil Karya Ku:</h2>
+  </blockquote>
+  <img src="https://uploads.onecompiler.io/43ttw7sra/43ttwfneb/1000049854.jpg" alt="taken by Febrian" width="200"
+  </blockquote>
+  <img src="https://uploads.onecompiler.io/43ttw7sra/43ttwfneb/1000049855.jpg" alt="taken by Febrian" width="150"
+</body>
+</html>
